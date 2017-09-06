@@ -1,3 +1,4 @@
+---
 defaults:
   # _pages
   - scope:
@@ -8,4 +9,6 @@ defaults:
       author_profile: true
       
 permalink: /about/
+---
 
+Hello Word
