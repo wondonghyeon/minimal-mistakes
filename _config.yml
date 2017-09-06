@@ -22,7 +22,7 @@ title                    : "Donghyeon"
 title_separator          : "-"
 name                     : "Donghyeon Won"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wondonghyeon.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "Donghyeon Won"
   avatar           : "images/profile.jpg"
-  bio              : "I am an amazing person."
+  bio              : "From Seoul, Korea. Now in Los Angeles, CA. \n Graduate Researcher"
   location         : "Los Angeles, CA"
   email            : won.donghyeon@gmail.com
   uri              :
