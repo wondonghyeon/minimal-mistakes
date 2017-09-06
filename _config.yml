@@ -90,8 +90,8 @@ analytics:
 author:
   name             : "Donghyeon Won"
   avatar           : "images/profile.jpg"
-  bio              : "Graduate Researcher.\
-    From Seoul, Korea.\
+  bio              : "Graduate Researcher.\\
+    From Seoul, Korea.\\
     Now in Los Angeles, CA."
   location         : "Los Angeles, CA"
   email            : won.donghyeon@gmail.com
