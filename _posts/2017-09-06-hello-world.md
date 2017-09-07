@@ -1,16 +1,9 @@
 ---
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+title: "Hello World!"
+categories:
+  - test
+tags:
+  - test
 ---
 
 Hello world!
