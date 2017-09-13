@@ -21,8 +21,8 @@ locale                   : "en"
 title                    : "Donghyeon"
 title_separator          : "-"
 name                     : "Donghyeon Won"
-description              : "An amazing website."
-url                      : https://wondonghyeon.github.io
+description              : "Donghyeon Won, UCLA, Graduate Student, Machine Learning, Computer Vision"
+url                      : dhwon.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -100,11 +100,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : https://github.com/wondonghyeon/
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : _cylindrical
+  instagram        :
   lastfm           :
   linkedin         : donghyeon-won-951534100
   pinterest        :
@@ -253,6 +253,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # true
       share: true
       related: true
