@@ -21,7 +21,7 @@ I just made my github page. Took much longer than I thought....
 This post is just for testing. 
 
 ![dog](/images/dog_japan.jpg)
-*Cute dog I met in Osaka*
+*A cute dog I met in Osaka*
 
 
 
