@@ -21,7 +21,7 @@ locale                   : "en"
 title                    : "Donghyeon Won"
 title_separator          : "-"
 name                     : "Donghyeon Won"
-description              : "Donghyeon Won, UCLA, Graduate Student, Machine Learning, Computer Vision"
+description              : "Donghyeon Won, nuTonomy, Seoul National Universyty, UCLA, Research Engineer, Self-driving car, Machine Learning, Computer Vision"
 url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "Donghyeon Won"
   avatar           : "images/profile.jpg"
-  bio              : "Graduate Researcher. From Seoul, Korea. Now in Los Angeles, CA."
+  bio              : "Research Engineer at nuTonomy. From Seoul, Korea. Now in Los Angeles, CA."
   location         : "Los Angeles, CA"
   email            : won.donghyeon@gmail.com
   uri              :
